@@ -1,4 +1,6 @@
 https://www.youtube.com/watch?v=l3TLQuwr4G0
 https://app.haikei.app/
 https://fontawesome.com/
+https://platform.openai.com/ (create your openai API_KEY in js file)
+
 
