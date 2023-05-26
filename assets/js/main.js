@@ -2,8 +2,6 @@ const submitIcon = document.getElementById("submit-icon");
 const inputElement = document.getElementById("prompt-input");
 const imagesSection = document.querySelector(".images-section");
 
-//var API_KEY = "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";
-
 const getImages = async () => {
     const options = {
         method: "POST",
